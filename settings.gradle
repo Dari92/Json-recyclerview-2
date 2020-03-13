@@ -1,0 +1,2 @@
+rootProject.name='JR2'
+include ':app'
